@@ -1,0 +1,9 @@
+[class*="col-"]
+{
+    margin-top: 5px;
+}
+
+[class*="btn-"]
+{
+    margin-top: 2px;
+}

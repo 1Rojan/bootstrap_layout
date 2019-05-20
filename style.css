@@ -7,3 +7,18 @@
 {
     margin-top: 2px;
 }
+
+[class*="btn btn-warning"]
+{
+    background-color: #dd5c42 !important;
+}
+
+[class*="btn btn-warning1"]
+{
+    background-color: #ed8e34!important;
+}
+
+[class*="2row"]
+{
+    opacity: 0.4;
+}

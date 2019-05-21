@@ -1,13 +1,20 @@
-[class*="col-"]
+
+
+
+/* [class*="col-"]
 {
     margin-top: 5px;
-}
-
-[class*="btn-"]
+} */
+/* .btn{
+    color: white !important;
+} */
+/* [class*="btn-"]
 {
-    margin-top: 2px;
-}
+    color: white !important;
+    
+} */
 
+/* 
 [class*="btn btn-warning"]
 {
     background-color: #dd5c42 !important;
@@ -21,4 +28,4 @@
 [class*="2row"]
 {
     opacity: 0.4;
-}
+} */
